@@ -5,7 +5,7 @@
 #include<cstdlib>
 using namespace std;
 //Lab Operationality Discerner System
-//Carlo Bryant Asuncion BSIT 1B
+//Carlo Bryant Asuncion BSIT 1B 2022-2023
 
 struct User{
 	string id;
